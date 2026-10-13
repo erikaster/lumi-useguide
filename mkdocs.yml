@@ -184,6 +184,8 @@ nav:
     - Data:
       - Dataset as a Service:
         - User guide: laif/data/daas-guide.md
+    - Machine Learning Operations:
+      - MLOps environment: laif/mlops/mlops-environment.md
     - AI Inference:
       - Overview: laif/inference/index.md
       - Aitta Inference Service: laif/inference/aitta.md
