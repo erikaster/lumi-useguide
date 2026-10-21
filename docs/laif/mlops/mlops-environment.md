@@ -5,7 +5,7 @@
 [mlflow-docs]: https://mlflow.org/docs/latest/ml/
 [firecrest-docs]: https://docs.csc.fi/computing/firecrest/
 [lumi-o-docs]: https://docs.lumi-supercomputer.eu/storage/lumio/
-[kf-env]: https://place-holder.com
+[kf-env]: https://kf.apps.lumi-k.eu/
 [mlops-tutorial]: https://github.com/CSCfi/kubeflow-instructions-notebooks
 [kf-trainer]: https://www.kubeflow.org/docs/components/trainer/
 
